@@ -1,0 +1,2 @@
+# EmotionAI-Real-Time-Facial-and-Voice-Emotion-Recognition-using-Deep-Learning
+EmotionAI is a comprehensive deep learning project designed to recognize human emotions from both facial expressions and voice. The project leverages state-of-the-art machine learning techniques to classify emotions in real-time, making it suitable for applications in mental health monitoring, human-computer interaction, and entertainment.
